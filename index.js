@@ -67,5 +67,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log('Server listening on 52.41.36.82');
+  console.log('Server listening on http://localhost:3000');
 });
